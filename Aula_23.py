@@ -1,3 +1,4 @@
-def soma(a,b):
-    soma = resultado
-soma(1,2)
+
+def soma( resultado,a,b):
+    return resultado
+soma(a,b)
