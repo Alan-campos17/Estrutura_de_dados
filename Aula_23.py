@@ -1,4 +1,9 @@
 
-def soma( resultado,a,b):
+def soma(a, b):
+    resultado = a + b
     return resultado
-soma(a,b)
+
+
+total = soma(4, 3)
+print(total) 
+
